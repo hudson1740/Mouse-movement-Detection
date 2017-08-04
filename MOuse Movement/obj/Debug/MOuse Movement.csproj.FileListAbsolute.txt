@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\bin\Debug\MOuse Movement.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\bin\Debug\MOuse Movement.exe
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\bin\Debug\MOuse Movement.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\obj\Debug\MOuse Movement.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\obj\Debug\MOuse_Movement.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\obj\Debug\MOuse_Movement.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\obj\Debug\MOuse Movement.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\obj\Debug\MOuse Movement.exe
+c:\users\administrator\documents\visual studio 2015\Projects\MOuse Movement\MOuse Movement\obj\Debug\MOuse Movement.pdb
